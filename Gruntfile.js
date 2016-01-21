@@ -415,7 +415,7 @@ var pkg = require('./package.json');
         branch: 'build'
       }
     }
-  }
+  
   });
 
 
